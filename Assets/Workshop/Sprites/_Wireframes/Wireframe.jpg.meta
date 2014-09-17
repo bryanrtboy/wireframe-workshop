@@ -1,0 +1,609 @@
+fileFormatVersion: 2
+guid: fc09561ae817f400598317e53a8901bf
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wireframe
+    21300002: Wireframe_mound
+    21300004: Wireframe_rectSquare
+    21300006: Wireframe_rectTall
+    21300008: Wireframe_rectShort
+    21300010: Wireframe_ground
+    21300012: Wireframe_groundLong
+    21300014: Wireframe_platform
+    21300016: Wireframe_platform0
+    21300018: Wireframe_groundRock
+    21300020: Wireframe_spikes
+    21300022: Wireframe_spikesSmall
+    21300024: Wireframe_fire
+    21300026: Wireframe_note
+    21300028: Wireframe_caption
+    21300030: Wireframe_navX
+    21300032: Wireframe_navBlank
+    21300034: Wireframe_wavy
+    21300036: Wireframe_hero
+    21300038: Wireframe_enemy
+    21300040: Wireframe_enemyBoss
+    21300042: Wireframe_heroAfraid
+    21300044: Wireframe_heroHappy
+    21300046: Wireframe_heroIdle
+    21300048: Wireframe_heroDead
+    21300050: Wireframe_heroActive
+    21300052: Wireframe_heroDetermined
+    21300054: Wireframe_flag
+    21300056: Wireframe_star
+    21300058: Wireframe_charm
+    21300060: Wireframe_charmX
+    21300062: Wireframe_starX
+    21300064: Wireframe_flagX
+    21300066: Wireframe_groundSmall
+    21300068: Wireframe_arrowForward
+    21300070: Wireframe_arrowBack
+    21300072: Wireframe_1
+    21300074: Wireframe_2
+    21300076: Wireframe_3
+    21300078: Wireframe_spring
+    21300080: Wireframe_lightning
+    21300082: Wireframe_audio
+    21300084: Wireframe_info
+    21300086: Wireframe_question
+    21300088: Wireframe_triangle
+    21300090: Wireframe_x
+    21300092: Wireframe_pencil
+    21300094: Wireframe_circle
+    21300096: Wireframe_enemyBossDead
+    21300098: Wireframe_enemyDead
+    21300100: Wireframe_enemyDamaged
+    21300102: Wireframe_enemyBossDamaged
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Wireframe_mound
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 754
+        width: 397
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_rectSquare
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 461
+        width: 202
+        height: 209
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_rectTall
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1033
+        width: 254
+        height: 658
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_rectShort
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 874
+        width: 251
+        height: 337
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_ground
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 874
+        width: 448
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_groundLong
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 126
+        width: 1821
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_platform
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 277
+        width: 457
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_platform0
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 277
+        width: 454
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_groundRock
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1256
+        width: 454
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_spikes
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1485
+        width: 458
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_spikesSmall
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1614
+        width: 229
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_fire
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1773
+        width: 454
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_note
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1744
+        width: 257
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_caption
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1738
+        width: 138
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_navX
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 659
+        width: 92
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_navBlank
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 658
+        width: 87
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_wavy
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 385
+        width: 461
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_hero
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 863
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_enemy
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 865
+        width: 108
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_enemyBoss
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 714
+        width: 151
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_heroAfraid
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 715
+        width: 106
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_heroHappy
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1576
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_heroIdle
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1456
+        width: 106
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_heroDead
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1335
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_heroActive
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1207
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_heroDetermined
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1070
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_flag
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1161
+        width: 53
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_star
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1163
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_charm
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1156
+        width: 111
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_charmX
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1053
+        width: 104
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_starX
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1064
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_flagX
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1061
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_groundSmall
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 986
+        width: 228
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_arrowForward
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 687
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_arrowBack
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 825
+        width: 104
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_1
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 459
+        width: 84
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_2
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 452
+        width: 84
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_3
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 452
+        width: 87
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_spring
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 282
+        width: 74
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_lightning
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1058
+        width: 52
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_audio
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 693
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_info
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 457
+        width: 84
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_question
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 463
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_triangle
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 565
+        width: 89
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_x
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1347
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_pencil
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 978
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_circle
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1206
+        width: 104
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_enemyBossDead
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1761
+        width: 141
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_enemyDead
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1350
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_enemyDamaged
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1460
+        width: 113
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wireframe_enemyBossDamaged
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1303
+        width: 146
+        height: 135
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
