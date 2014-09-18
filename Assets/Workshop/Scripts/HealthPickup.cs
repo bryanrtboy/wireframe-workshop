@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class HealthPickup : MonoBehaviour
@@ -26,7 +26,7 @@ public class HealthPickup : MonoBehaviour
 		if(other.tag == "Player")
 		{
 			// Get a reference to the player health script.
-			PlayerHealth playerHealth = other.GetComponent<PlayerHealth>();
+			PlayersHealth playerHealth = other.GetComponent<PlayersHealth>();
 
 			// Increasse the player's health by the health bonus but clamp it at 100.
 			playerHealth.health += healthBonus;
